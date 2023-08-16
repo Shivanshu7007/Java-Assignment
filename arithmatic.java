@@ -11,5 +11,6 @@ public class arithmatic{
         System.out.println("The product Is "+(a*b));
         System.out.println("The div Is "+(a/b));
         System.out.println("The rem Is "+(a%b));
+        System.out.println("The rem Is "+(a*a*a));        
     }
 }
