@@ -19,5 +19,5 @@ public class prime_range {
             System.out.print(j+" ");   
         }
     }
-    
+        
 }
