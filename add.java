@@ -6,6 +6,6 @@ public class add{
         int a=sc.nextInt();
         System.out.println("Enter Second Number");
         int b=sc.nextInt();        
-        System.out.println("The Sum Is"+(a+b));
+        System.out.println("The Sum Is "+(a+b));
     }
 }
